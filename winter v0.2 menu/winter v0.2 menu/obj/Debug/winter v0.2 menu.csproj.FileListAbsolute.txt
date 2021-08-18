@@ -1,0 +1,10 @@
+C:\Users\marce\Desktop\code\c#-winter\winter v0.2\winter v0.2 menu\winter v0.2 menu\bin\Debug\winter v0.2 menu.exe.config
+C:\Users\marce\Desktop\code\c#-winter\winter v0.2\winter v0.2 menu\winter v0.2 menu\bin\Debug\winter v0.2 menu.exe
+C:\Users\marce\Desktop\code\c#-winter\winter v0.2\winter v0.2 menu\winter v0.2 menu\bin\Debug\winter v0.2 menu.pdb
+C:\Users\marce\Desktop\code\c#-winter\winter v0.2\winter v0.2 menu\winter v0.2 menu\obj\Debug\winter v0.2 menu.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\code\c#-winter\winter v0.2\winter v0.2 menu\winter v0.2 menu\obj\Debug\winter_v0._2_menu.Form1.resources
+C:\Users\marce\Desktop\code\c#-winter\winter v0.2\winter v0.2 menu\winter v0.2 menu\obj\Debug\winter_v0._2_menu.Properties.Resources.resources
+C:\Users\marce\Desktop\code\c#-winter\winter v0.2\winter v0.2 menu\winter v0.2 menu\obj\Debug\winter v0.2 menu.csproj.GenerateResource.cache
+C:\Users\marce\Desktop\code\c#-winter\winter v0.2\winter v0.2 menu\winter v0.2 menu\obj\Debug\winter v0.2 menu.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\code\c#-winter\winter v0.2\winter v0.2 menu\winter v0.2 menu\obj\Debug\winter v0.2 menu.exe
+C:\Users\marce\Desktop\code\c#-winter\winter v0.2\winter v0.2 menu\winter v0.2 menu\obj\Debug\winter v0.2 menu.pdb
